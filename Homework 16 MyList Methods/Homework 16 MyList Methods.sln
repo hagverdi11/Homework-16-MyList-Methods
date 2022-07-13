@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 16 MyList Methods", "Homework 16 MyList Methods\Homework 16 MyList Methods.csproj", "{2A792176-58AC-4A76-B35B-57FEF5E4D09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A792176-58AC-4A76-B35B-57FEF5E4D09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A792176-58AC-4A76-B35B-57FEF5E4D09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A792176-58AC-4A76-B35B-57FEF5E4D09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A792176-58AC-4A76-B35B-57FEF5E4D09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7548AE1-E16D-4A50-A821-54B4D90983E4}
+	EndGlobalSection
+EndGlobal

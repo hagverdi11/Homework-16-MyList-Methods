@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\bin\Debug\netcoreapp3.1\Homework 16 MyList Methods.exe
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\bin\Debug\netcoreapp3.1\Homework 16 MyList Methods.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\bin\Debug\netcoreapp3.1\Homework 16 MyList Methods.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\bin\Debug\netcoreapp3.1\Homework 16 MyList Methods.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\bin\Debug\netcoreapp3.1\Homework 16 MyList Methods.dll
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\bin\Debug\netcoreapp3.1\Homework 16 MyList Methods.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.dll
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 16\Homework 16 MyList Methods\Homework 16 MyList Methods\obj\Debug\netcoreapp3.1\Homework 16 MyList Methods.genruntimeconfig.cache
